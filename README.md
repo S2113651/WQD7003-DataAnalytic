@@ -1,2 +1,2 @@
-# WQD7003 DataMining
+# WQD7003 DataAnalytic
  GroupAssignment
